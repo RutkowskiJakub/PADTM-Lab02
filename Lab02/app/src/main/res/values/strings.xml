@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Lab02</string>
+    <string name="moj_tekst">Hello World</string>
+    <string name="dog">dog</string>
+    <string name="yes">yes</string>
+    <string name="ball">ball</string>
+    <string name="uncle">uncle</string>
+    <string name="watch">watch</string>
 </resources>
