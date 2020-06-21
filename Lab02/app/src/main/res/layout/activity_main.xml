@@ -6,6 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/green" />
+    <!--android:background="@drawable/wall"-->
+
     <TextView
         android:id="@+id/textView6"
         android:layout_width="wrap_content"
